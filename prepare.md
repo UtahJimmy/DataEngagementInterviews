@@ -6,7 +6,7 @@ permalink: /prepare/
 
 # Getting Started with Data Engagement Interviews
 
-## Gathering participants and analyst
+### Gathering participants and analyst
 
 We started our study by [soliciting participation] from our ongoing study participants[^1], and [beginning our search] for a data analyst[^2].  
 
@@ -18,7 +18,7 @@ interview involved on-the-spot analysis of sample datasets to answer a variety o
 When evaluating our applicants, we were less focused on their ability to complete every
 interview question, and more interested in their overall problem solving approach, personability, and ability to plot and process data under pressure. The analyst we selected came prepared to their interview with some exploratory analysis scripts already written, was able to clearly describe their overall analysis process, and take direction well.  
 
-## Data Wrangling and preparation
+### Data Wrangling and preparation
 
 While signing up participants and interviewing analysts, we were also collecting and formatting participants' data in preparation for our data engagement interviews[^3]. Using some [preprocessing scripts], we formatted participants’ raw air quality measurement data and event logs to be more amenable for real-time data analysis. This processing involved a variety of functions to assign additional metadata and categorical labels to participants' air quality data. This formatting provided additional contextual information that helped us to filter and facet data within the interview.
 
