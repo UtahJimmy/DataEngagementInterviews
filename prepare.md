@@ -25,11 +25,19 @@ While signing up participants and interviewing analysts, we were also collecting
 
 <br>
 
-*Example*: Processing raw ai quality data samples
+**Example**: Processing raw ai quality data samples
 
 ![raw_aq](../assets/images/raw_aq.jpg)
+**Fig. 1**: *Raw sensor data for participant P1 (deployment_003). Entity and home IDs
+are known only to researchers. The “value”, “location”, and “location_type” columns
+exist to give basic filtering for early troubleshooting.*
+
 
 ![formatted_aq](../assets/images/formatted_aq.jpg)
+
+**Fig. 2**: *Processed sensor data includes columns for: year, month, hour of day, phase
+of day (morning, afternoon, evening), day of week, phase of week (weekend,
+weekday), week number of participants deployment, and season.*
 
 
 
