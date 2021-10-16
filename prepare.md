@@ -12,7 +12,7 @@ We started our study by [soliciting participation] from our ongoing study partic
 <br>
 
 We [made arrangements] to interview each analyst candidate at a local coffee shop. The
-interview involved on-the-spot analysis of sample datasets to answer a variety of test questions. Our analyst interview protocol gives more detail on the interview procedure, as well as the list of specific questions we had the analyst candidate worked through.  
+interview involved on-the-spot analysis of [sample datasets] to answer a variety of test questions. Our [analyst interview protocol] gives more detail on the interview procedure, as well as the list of specific questions we had the analyst candidate worked through.  
 <br>
 
 When evaluating our applicants, we were less focused on their ability to complete every
@@ -48,8 +48,10 @@ We combined our prepared data with a [collection of analysis scripts] that our a
 [^3]: Section 5.2: Collecting and wrangling participants' data
 
 
-[soliciting participantion]: ../assets/documents/participant_solicitation.pdf
+[soliciting participation]: ../assets/documents/participant_solicitation.pdf
 [beginning our search]: ../assets/documents/search.pdf
+[sample datasets]: code.md
+[analyst interview protocol]: ../assets/documents/analyst_interview_protocol.pdf
 [made arrangements]: ../assets/documents/arrangements.pdf
 [preprocessing scripts]: code.md
 [collection of analysis scripts]: code.md
