@@ -26,9 +26,9 @@ Our original goal for conducting these interviews was to identify and understand
 
 ### Analyzing data engagement interviews[^7]
 With participants’ permission, we audio-recorded each data engagement interview. We added these files along with participants completed interview worksheets, individual Jupyter notebooks for each participant interview, and any other artifacts they created during their interviews (design sketches, notes, or other mark-ups). We referred to each of these materials while performing our subsequent interview analyses.
-<p></p>
+<p> &nbsp </p>
 The first author wrote up a reflexive summary on the interview experience after each participant interview as a way to capture their reactions to and impression of the overall interview process. This involved capturing information on whatever was interesting or surprising in the interview, as well as reflections on which aspects of the interview went well (or not). We also made sure to summarize outcomes related to our specific research goals which for us involved: participants stated goals, questions or interests; emerging themes on their motivations for working with data; observations on the data analysis process in general; participant operationalization steps; and any significant quotable moments we imagined being important for our write-up.
-<p></p>
+<p> &nbsp </p>
 The interview audio was also professionally transcribed, then further summarized by the first author. Afterwards, a group of three researchers performed seven reflexive meetings, one for each participant, where they reviewed the interview transcripts and summary, and met to discuss their thoughts and reactions to the interview. These meetings were also recorded. 
 <p></p>
 The first author then summarized these reflexive meetings and met once more with the other two researchers. These meetings used the reflexive meeting notes to construct an affinity map for important topics and ideas encountered through the participant interview transcripts, as well as the framework and outcomes presented in this work.
