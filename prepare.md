@@ -33,6 +33,8 @@ While signing up participants and interviewing analysts, we were also collecting
 are known only to researchers. The “value”, “location”, and “location_type” columns
 exist to give basic filtering for early troubleshooting.*
 
+<br>
+<br>
 
 ![formatted_aq](../assets/images/formatted_aq.jpg)
 
@@ -40,7 +42,8 @@ exist to give basic filtering for early troubleshooting.*
 of day (morning, afternoon, evening), day of week, phase of week (weekend,
 weekday), week number of participants deployment, and season.*
 
-
+<br>
+<br>
 
 ### Processing data for your own project
 
