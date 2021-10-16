@@ -1,6 +1,6 @@
-# Creative Visualization-Opportunities Workshops
+# Data Engagement Interview Guide
 
-Supplemental Material for the paper "A Framework for Creative Visualization-Opportunities Workshops" to appear at IEEE InfoVis, 2018.
+Supplemental Material for the paper "An interview method for engaging with personal data" to appear at Ubicomp, 2022.
 
 ## Development
 

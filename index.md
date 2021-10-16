@@ -16,4 +16,4 @@ We include descriptions and materials for helping researchers to [prepare] and [
 [perform]: ./perform/
 [interview materials]:[./materials]
 [example code]: ./code/
-[_An interview method for engaging persoal data_]: http://sci.utah.edu/~vdl/papers/2018_infovis_creative-workshops.pdf
+[_An interview method for engaging personal data_]: http://sci.utah.edu/~vdl/papers/2018_infovis_creative-workshops.pdf

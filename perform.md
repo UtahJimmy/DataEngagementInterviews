@@ -3,7 +3,7 @@ layout: default
 title: Performing Data Engagement Interviews
 permalink: /peform/
 ---
-# Conducting DAta engagemnt interviews
+# Conducting Data engagemnt interviews
 
 Words 
 \\
