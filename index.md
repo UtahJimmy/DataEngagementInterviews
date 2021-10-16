@@ -24,6 +24,6 @@ Where appropriate, footnotes indicate where the reader can refer back to specifi
 
 [prepare]: ./prepare/
 [perform]: ./perform/
-[interview materials]:./materials/
+[interview materials]: ./materials/
 [example code]: ./code/
 [_An interview method for engaging personal data_]: https://vdl.sci.utah.edu/team/moore/
