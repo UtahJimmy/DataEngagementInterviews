@@ -22,6 +22,17 @@ interview question, and more interested in their overall problem solving approac
 
 While signing up participants and interviewing analysts, we were also collecting and formatting participants' data in preparation for our data engagement interviews[^3]. Using some [preprocessing scripts], we formatted participants’ raw air quality measurement data and event logs to be more amenable for real-time data analysis. This processing involved a variety of functions to assign additional metadata and categorical labels to participants' air quality data. This formatting provided additional contextual information that helped us to filter and facet data within the interview.
 
+
+### Processing data for your own project
+
+Processing raw data helps make it easier for the analyst to generate useful cuts, as well as to improve readability for the participant, who may have difficulty with interpreting data in its raw form. In our project, this meant converting UTC timestamps to local time, and unique sensor IDs to their specific locations in the participants’ home to improve data legibility. 
+
+You can take the same approach with your own data sources for generating similar categorical labels or derived metadata. This step can be tailored to support whatever analyses you imagine needing to perform. For example, if working with social media posts, these can be processed and coded according to user location, message topic, textual sentiment, or other salient dimensions that can support your research and analysis goals.
+
+### Analysis toolkit
+
+We combined our prepared data with a [collection of analysis scripts] that our analyst developed over the course of his second round pilot interviews. Together, these allowed us to quickly process and analyze participants’ data.
+
 [^1]: Section 3.3: Study participants
 [^2]: Section 5.1: Recruiting and preparing the data analyst
 [^3]: Section 5.2: Collecting and wrangling participants' data
@@ -31,3 +42,4 @@ While signing up participants and interviewing analysts, we were also collecting
 [beginning our search]: ../assets/documents/search.pdf
 [made arrangements]: ../assets/documents/arrangements.pdf
 [preprocessing scripts]: code.md
+[collection of analysis scripts]: code.md
