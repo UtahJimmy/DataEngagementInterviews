@@ -8,4 +8,13 @@ title: Sample Code
 
 # Sample Code
 
-Does this generate a new site?
+Some sample data and code to illustrate how we approached our data processing for particiapnts' data engagement interviews.
+
+* [Preprocessing script] - to prepare data for our interviews
+* [Analyst notebook] - central repository for all processing functions
+* [Sample data] - Sample data from our participant deployments
+
+
+[Analyst notebook]: ../assets/documents/analyst_notebook.ipynb
+[Sample data]: ../assets/documents/sample_data.zip
+[Preprocessing scripts]: ../assets/documents/preprocessing_script.zip

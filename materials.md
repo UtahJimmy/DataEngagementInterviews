@@ -18,7 +18,7 @@ We also brought along various sketching supples to help particiapnts externalize
 
 * pens, pencils, markers, post-its, and [dot paper]
 
-Finally, presentation equipment for perforing and communicating data analysis
+Finally, presentation equipment for perforing and communicating data analysis:
 * Laptop
 * external monitor (and HDMI cable!)
 
