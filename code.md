@@ -18,4 +18,4 @@ Some sample data and code to illustrate how we approached our data processing fo
 
 [Analyst notebook]: ../assets/documents/analyst_notebook.ipynb
 [Sample data]: ../assets/documents/sample_data.zip
-[Preprocessing scripts]: ../assets/documents/preprocessing_script.zip
+[Preprocessing script]: ../assets/documents/preprocessing_script.zip
