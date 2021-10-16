@@ -12,6 +12,10 @@ This website is the supplemental material for the paper [_An interview method fo
 \\
 We include descriptions and materials for helping researchers to [prepare] and [perform] their own data engagement inteviews.  We also incldue links to our own [interview materials] and [example code]
 
+This guide can be read alongside our journal submission to give additional information on how we prepared and conducted our data engagement interviews. The following sections outline how we conducted our case study with asthamtic families, and we include links to other supporting documents throughout this guide to help researchers with developing their own data engagement interviews.
+\\
+Where appropriate, footnotes indicate where the reader can refer back to specific sections of the journal submission for more details on this method.
+
 
 [prepare]: ./prepare/
 [perform]: ./perform/
