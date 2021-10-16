@@ -1,6 +1,7 @@
 ---
 layout:default
+title: Getting Started
 ---
-# Performing Data Engagement Interviews
+# Getting Started with Data Engagement Interviews
 
 test
