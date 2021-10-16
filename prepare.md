@@ -30,4 +30,4 @@ While signing up participants and interviewing analysts, we were also collecting
 [soliciting participantion]: ../assets/documents/participant_solicitation.pdf
 [beginning our search]: ../assets/documents/search.pdf
 [made arrangements]: ../assets/documents/arrangements.pdf
-[[preprocessing scripts]: code.md
+[preprocessing scripts]: code.md
