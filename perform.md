@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performing Data Engagement Interviews
-permalink: /peform/
+permalink: /perform/
 ---
 # Conducting Data engagemnt interviews
 
