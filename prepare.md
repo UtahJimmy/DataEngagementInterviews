@@ -10,13 +10,9 @@ permalink: /prepare/
 
 We started our study by [soliciting participation] from our ongoing study participants[^1], and [beginning our search] for a data analyst[^2].  
 <br>
-<br>
-
-
 
 We [made arrangements] to interview each analyst candidate at a local coffee shop. The
-interview involved on-the-spot analysis of sample datasets to answer a variety of test questions. Our analyst interview protocol gives more detail on the interview procedure, as well as the list of specific questions we had the analyst candidate worked through.   
-<br>
+interview involved on-the-spot analysis of sample datasets to answer a variety of test questions. Our analyst interview protocol gives more detail on the interview procedure, as well as the list of specific questions we had the analyst candidate worked through.  
 <br>
 
 When evaluating our applicants, we were less focused on their ability to complete every
@@ -31,18 +27,12 @@ While signing up participants and interviewing analysts, we were also collecting
 
 Processing raw data helps make it easier for the analyst to generate useful cuts, as well as to improve readability for the participant, who may have difficulty with interpreting data in its raw form. In our project, this meant converting UTC timestamps to local time, and unique sensor IDs to their specific locations in the participants’ home to improve data legibility. 
 <br>
-<br>
 
 You can take the same approach with your own data sources for generating similar categorical labels or derived metadata. This step can be tailored to support whatever analyses you imagine needing to perform. For example, if working with social media posts, these can be processed and coded according to user location, message topic, textual sentiment, or other salient dimensions that can support your research and analysis goals.
 
 ### Analysis toolkit
 
 We combined our prepared data with a [collection of analysis scripts] that our analyst developed over the course of his second round pilot interviews. Together, these allowed us to quickly process and analyze participants’ data.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
