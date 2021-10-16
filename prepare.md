@@ -17,11 +17,13 @@ interview involved on-the-spot analysis of sample datasets to answer a variety o
 
 When evaluating our applicants, we were less focused on their ability to complete every
 interview question, and more interested in their overall problem solving approach, personability, and ability to plot and process data under pressure. The analyst we selected came prepared to their interview with some exploratory analysis scripts already written, was able to clearly describe their overall analysis process, and take direction well.  
+<br> 
 
 ### Data Wrangling and preparation
 
 While signing up participants and interviewing analysts, we were also collecting and formatting participants' data in preparation for our data engagement interviews[^3]. Using some [preprocessing scripts], we formatted participants’ raw air quality measurement data and event logs to be more amenable for real-time data analysis. This processing involved a variety of functions to assign additional metadata and categorical labels to participants' air quality data. This formatting provided additional contextual information that helped us to filter and facet data within the interview.
 
+<br>
 
 ### Processing data for your own project
 
@@ -29,6 +31,8 @@ Processing raw data helps make it easier for the analyst to generate useful cuts
 <br>
 
 You can take the same approach with your own data sources for generating similar categorical labels or derived metadata. This step can be tailored to support whatever analyses you imagine needing to perform. For example, if working with social media posts, these can be processed and coded according to user location, message topic, textual sentiment, or other salient dimensions that can support your research and analysis goals.
+
+<br>
 
 ### Analysis toolkit
 

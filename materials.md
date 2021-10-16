@@ -12,15 +12,11 @@ We prepared the following items for conducting our data engagement interviews:
 * [Representative printouts] of the particiapnts' actual data
 * their interview [worksheet]
 
-<br>
-<br>
 
 
 We also brought along various sketching supples to help particiapnts externalize their thinking:
 
 * pens, pencils, markers, post-its, and [dot paper]
-<br>
-<br>
 
 Finally, presentation equipment for perforing and communicating data analysis
 * Laptop
