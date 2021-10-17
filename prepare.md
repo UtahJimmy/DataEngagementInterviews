@@ -37,7 +37,7 @@ exist to give basic filtering for early troubleshooting.*
 
 <br>
 <br>
-<img src="../assets/images/formatted_aq.jpg" alt="drawing" width="600"/>
+<img src="../assets/images/formatted_aq.jpg" alt="drawing" width="900"/>
 
 
 **Fig. 2**: *Processed sensor data includes columns for: year, month, hour of day, phase
