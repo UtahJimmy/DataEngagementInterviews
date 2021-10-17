@@ -27,7 +27,7 @@ While signing up participants and interviewing analysts, we were also collecting
 
 **Example**: Processing raw ai quality data samples
 
-<img src="../assets/images/raw_aq.jpg" alt="drawing" width="200"/>
+<img src="../assets/images/raw_aq.jpg" alt="drawing" width="500"/>
 
 
 **Fig. 1**: *Raw sensor data for participant P1 (deployment_003). Entity and home IDs
